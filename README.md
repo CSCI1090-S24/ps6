@@ -2,15 +2,17 @@
 
 How you submit your problem sets will be a little bit different now. You will be doing your work in a Colab notebook. These instructions below will be included in each notebook, but here's a summary:
 
-1. You will follow the instructions in the Colab notebook to create your own copy of the notebook.
+1. You will follow the instructions in [the Colab notebook for PS6](https://colab.research.google.com/drive/1MxY6znCsQHzbl4hmHYcoQS2tKOefcwIo?usp=sharing) to create your own copy of the notebook.
 2. You will edit the Colab notebook to complete the various tasks, as indicated in the notebook. Most of the time this will involve writing code in a code cell, but sometimes you will answer questions in a text cell. It will always be clear what you have to do.
 3. When your notebook is complete, you will share the notebook with me and the TAs, as decribed in the notebook.
 4. You will download your Colab notebook to your computer, move it into this repository, and add, commit, and push it to GitHub, just like you have done for previous problem sets.
 5. You will *not* alter the Colab notebook after the deadline. If you do -- even just to fix a typo! -- it will look like you turned the notebook in late.
 
-Here is a link to the Colab notebook.
+[Here is a link to the Colab notebook](https://colab.research.google.com/drive/1MxY6znCsQHzbl4hmHYcoQS2tKOefcwIo?usp=sharing).
 
 If you think you see an error or typo, let me know! I will update [this version of the repo](https://github.com/CSCI1090-S24/ps6) with any corrections you suggest.
+
+Don't forget that there is [a link to very very helpful Colab notebook in the sample code for week 7](https://github.com/CSCI1090-S24/sample_code/tree/main/week7) that has lots of examples answering the same kinds of questions and using all the necssary function. 
 
 
 **Remember** I now expect you to write comments in your code! One point will be deducted if you do not provide comments explaining your code. Here's what I would like commented this time:
